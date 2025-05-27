@@ -1,0 +1,15 @@
+/Users/admin/Projects/twosem/twosem/obj/Debug/net7.0/IOiMO.csproj.AssemblyReference.cache
+/Users/admin/Projects/twosem/twosem/obj/Debug/net7.0/IOiMO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/twosem/twosem/obj/Debug/net7.0/IOiMO.AssemblyInfoInputs.cache
+/Users/admin/Projects/twosem/twosem/obj/Debug/net7.0/IOiMO.AssemblyInfo.cs
+/Users/admin/Projects/twosem/twosem/obj/Debug/net7.0/IOiMO.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/twosem/twosem/bin/Debug/net7.0/IOiMO
+/Users/admin/Projects/twosem/twosem/bin/Debug/net7.0/IOiMO.deps.json
+/Users/admin/Projects/twosem/twosem/bin/Debug/net7.0/IOiMO.runtimeconfig.json
+/Users/admin/Projects/twosem/twosem/bin/Debug/net7.0/IOiMO.dll
+/Users/admin/Projects/twosem/twosem/bin/Debug/net7.0/IOiMO.pdb
+/Users/admin/Projects/twosem/twosem/obj/Debug/net7.0/IOiMO.dll
+/Users/admin/Projects/twosem/twosem/obj/Debug/net7.0/refint/IOiMO.dll
+/Users/admin/Projects/twosem/twosem/obj/Debug/net7.0/IOiMO.pdb
+/Users/admin/Projects/twosem/twosem/obj/Debug/net7.0/IOiMO.genruntimeconfig.cache
+/Users/admin/Projects/twosem/twosem/obj/Debug/net7.0/ref/IOiMO.dll

@@ -1,0 +1,5 @@
+/Users/admin/Projects/twosem/twosem/obj/Debug/net7.0/twosem.csproj.AssemblyReference.cache
+/Users/admin/Projects/twosem/twosem/obj/Debug/net7.0/twosem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Projects/twosem/twosem/obj/Debug/net7.0/twosem.AssemblyInfoInputs.cache
+/Users/admin/Projects/twosem/twosem/obj/Debug/net7.0/twosem.AssemblyInfo.cs
+/Users/admin/Projects/twosem/twosem/obj/Debug/net7.0/twosem.csproj.CoreCompileInputs.cache
